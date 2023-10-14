@@ -32,3 +32,6 @@
      // The default is 40
 #    define MOUSEKEY_WHEEL_TIME_TO_MAX 100
 #endif
+
+#define LED_CAPS_LOCK_PIN 24
+#define LED_PIN_ON_STATE 0
